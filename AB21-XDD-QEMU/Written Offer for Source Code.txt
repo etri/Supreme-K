@@ -1,0 +1,23 @@
+[ Written Offer for Source Code ]
+
+For the person or third party technology that you receive from ETRI Github in binary from this page:
+
+ - https://github.com/etri/Supremek/AB21-XDD-QEMU
+
+You can obtain a copy of the applicable source code for the AB21-XDD-QEMU binary code which is licensed under an open source license GPL v2 that gives you the right to receive the source code, you may send an email to Supercomputing Technology Research Center, ETRI using the form at: parkym@etri.re.kr
+
+Your request should include:
+
+The name of binary file(s) for which you are requesting the source code
+
+The date you received the binary
+
+Your name
+
+Your company name (if applicable)
+
+Your return mailing address and email and
+
+A telephone number in the event we need to reach you.
+
+We may charge you a fee to cover the cost of physical media and processing. Your request must be sent within three (3) years of the date you received the Oracle product that included the component or binary file(s) that are the subject of your request.
